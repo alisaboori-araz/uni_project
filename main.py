@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog
-from components.CPU import CPU
+from cpu.CPU import CPU
 
 def main():
     print("Please write your program in a text file with each instruction on a new line.")

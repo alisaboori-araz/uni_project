@@ -1,4 +1,4 @@
-from cpu.cpu.components.CPU import CPU
+from cpu.CPU import CPU
 
 extended_program = [
     "LOADI R1, 10",    # Load 10 into R1
